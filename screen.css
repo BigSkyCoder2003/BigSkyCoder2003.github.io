@@ -15,7 +15,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
+  font: Arial;
   vertical-align: baseline; }
 
 body {
@@ -55,8 +55,39 @@ a {
     color: #009ce0; }
 
 #main {
-  padding: 50px; }
+  padding: 10px; }
+
+  h1{
+    font-size:35px;
+padding-top: 40px;
+    text-align: center;
+  }
+  
 h2{
-background-color: #ccc;
- color: red;
+  font-size: 20px;
+  /*background-color: #ccc;*/
+
+  text-align: center;
+}
+
+h3{
+
+
+  font-size: 1.5em;
+  background-color: #ccc;
+
+  text-align: center;
+
+
+}
+
+.center{
+
+  display: block;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-right: auto;
+  
+
+
 }
