@@ -18,6 +18,8 @@ time, mark, audio, video {
   font: Arial;
   vertical-align: baseline; }
 
+
+  }
 body {
   line-height: 1; }
 
@@ -66,7 +68,7 @@ padding-top: 40px;
 h2{
   font-size: 20px;
   /*background-color: #ccc;*/
-
+margin-bottom: 10px;
   text-align: center;
 }
 
@@ -90,4 +92,11 @@ h3{
   
 
 
+}
+
+.spacing
+{
+  margin-inline: 50px;
+display: block;
+text-align: center;
 }
